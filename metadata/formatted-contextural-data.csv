@@ -1,0 +1,621 @@
+PROJECT_ID,SAMPLE_ID,INCLUDE,BLANK_OR_CONTROL,ENRICHMENT,ENV_BIOME,ENV_FEATURE,ENV_MATERIAL,LATITUDE,LONGITUDE,PH,TEMPERATURE
+DCO_BKR,Aar_59E_13H2,TRUE,FALSE,FALSE,"marine biome",borehole,sediment,55.004821,10.108177,7.79,null
+DCO_BKR,Aar_59E_21H2,TRUE,FALSE,FALSE,"marine biome",borehole,sediment,55.004821,10.108177,6.86,null
+DCO_BKR,Aar_59E_25H2,TRUE,FALSE,FALSE,"marine biome",borehole,sediment,55.004821,10.108177,7.01,null
+DCO_BKR,Aar_65C_4H2,TRUE,FALSE,FALSE,"marine biome",borehole,sediment,55.463252,15.474324,7.45,null
+DCO_BKR,Aar_DrillFluid_59E_NC,FALSE,TRUE,FALSE,"marine biome",borehole,sediment,55.004821,10.108177,null,null
+DCO_BKR,Knox_60B_10H2,TRUE,FALSE,FALSE,"marine biome",borehole,sediment,56.620161,11.670677,7.89,null
+DCO_BKR,Knox_60B_28H2,TRUE,FALSE,FALSE,"marine biome",borehole,sediment,56.620161,11.670677,8.01,null
+DCO_BKR,Knox_63E_24H2,TRUE,FALSE,FALSE,"marine biome",borehole,sediment,58.622326,18.254166,7.7,null
+DCO_BKR,Knox_63E_6H2,TRUE,FALSE,FALSE,"marine biome",borehole,sediment,58.622326,18.254166,8.02,null
+DCO_BKR,Knox_65C_7H2,TRUE,FALSE,FALSE,"marine biome",borehole,sediment,55.463252,15.474324,7.41,null
+DCO_BKR,Knox_DrillFluid_63E_NC,FALSE,TRUE,FALSE,"marine biome",borehole,sediment,58.622326,18.2541667,null,null
+DCO_BMS,AG170420_f,null,null,null,null,null,null,null,null,null,null
+DCO_BMS,BC180410_f,null,null,null,null,null,null,null,null,null,null
+DCO_BMS,BS180407_f,null,null,null,null,null,null,null,null,null,null
+DCO_BMS,BS180407_s,null,null,null,null,null,null,null,null,null,null
+DCO_BMS,BW180407_f,null,null,null,null,null,null,null,null,null,null
+DCO_BMS,CH180410_f,null,null,null,null,null,null,null,null,null,null
+DCO_BMS,CH180410_s,null,null,null,null,null,null,null,null,null,null
+DCO_BMS,CI180408_f,null,null,null,null,null,null,null,null,null,null
+DCO_BMS,CI180408_s,null,null,null,null,null,null,null,null,null,null
+DCO_BMS,CL180410_f,null,null,null,null,null,null,null,null,null,null
+DCO_BMS,CL180410_s,null,null,null,null,null,null,null,null,null,null
+DCO_BMS,CV180410_f,null,null,null,null,null,null,null,null,null,null
+DCO_BMS,CV180410_s,null,null,null,null,null,null,null,null,null,null
+DCO_BMS,CW180415_f,null,null,null,null,null,null,null,null,null,null
+DCO_BMS,CW180415_s,null,null,null,null,null,null,null,null,null,null
+DCO_BMS,CZ180409_f,null,null,null,null,null,null,null,null,null,null
+DCO_BMS,CZ180409_s,null,null,null,null,null,null,null,null,null,null
+DCO_BMS,DS170420_f,null,null,null,null,null,null,null,null,null,null
+DCO_BMS,ER180415_f,null,null,null,null,null,null,null,null,null,null
+DCO_BMS,ER180415_s,null,null,null,null,null,null,null,null,null,null
+DCO_BMS,GE180403_s,null,null,null,null,null,null,null,null,null,null
+DCO_BMS,HA180403_f,null,null,null,null,null,null,null,null,null,null
+DCO_BMS,HA180403_s,null,null,null,null,null,null,null,null,null,null
+DCO_BMS,LB180410_f,null,null,null,null,null,null,null,null,null,null
+DCO_BMS,LB180410_s,null,null,null,null,null,null,null,null,null,null
+DCO_BMS,LE180416_f,null,null,null,null,null,null,null,null,null,null
+DCO_BMS,LE180416_s,null,null,null,null,null,null,null,null,null,null
+DCO_BMS,LH180406_f,null,null,null,null,null,null,null,null,null,null
+DCO_BMS,LH180406_s,null,null,null,null,null,null,null,null,null,null
+DCO_BMS,LP180406_f,null,null,null,null,null,null,null,null,null,null
+DCO_BMS,LP180406_s,null,null,null,null,null,null,null,null,null,null
+DCO_BMS,LW180405_f,null,null,null,null,null,null,null,null,null,null
+DCO_BMS,LW180405_s,null,null,null,null,null,null,null,null,null,null
+DCO_BMS,MC180404_f,null,null,null,null,null,null,null,null,null,null
+DCO_BMS,MC180404_s,null,null,null,null,null,null,null,null,null,null
+DCO_BMS,PC140111_f,null,null,null,null,null,null,null,null,null,null
+DCO_BMS,PS180405_s,null,null,null,null,null,null,null,null,null,null
+DCO_BMS,PX180416_f,null,null,null,null,null,null,null,null,null,null
+DCO_BMS,PX180416_s,null,null,null,null,null,null,null,null,null,null
+DCO_BMS,RC180404_f,null,null,null,null,null,null,null,null,null,null
+DCO_BMS,RC180404_s,null,null,null,null,null,null,null,null,null,null
+DCO_BMS,RR180407_f,null,null,null,null,null,null,null,null,null,null
+DCO_BMS,RR180407_s,null,null,null,null,null,null,null,null,null,null
+DCO_BMS,SC180411_f,null,null,null,null,null,null,null,null,null,null
+DCO_BMS,SC180411_s,null,null,null,null,null,null,null,null,null,null
+DCO_BMS,XF180416_f,null,null,null,null,null,null,null,null,null,null
+DCO_BMS,XS180416_s,null,null,null,null,null,null,null,null,null,null
+DCO_BMS,YR180404_f,null,null,null,null,null,null,null,null,null,null
+DCO_BMS,null,FALSE,TRUE,null,null,null,null,null,null,null,null
+DCO_BOM,1039_Itavaara_OL_KR6_422m,TRUE,FALSE,FALSE,"terrestrial biome",borehole,rock,null,null,7.9,9.5
+DCO_BOM,1040_Itavaara_OL_KR29_801m,TRUE,FALSE,FALSE,"terrestrial biome",borehole,rock,null,null,7.3,16.6
+DCO_BOM,301_Itavaara_OL_KR9_564m,TRUE,FALSE,FALSE,"terrestrial biome",borehole,rock,null,null,8.1,12
+DCO_BOM,303_Itavaara_OL_KR9_468m,TRUE,FALSE,FALSE,"terrestrial biome",borehole,rock,null,null,7.7,10.6
+DCO_BOM,437_Itavaara_OL_KR5_457m,TRUE,FALSE,FALSE,"terrestrial biome",borehole,rock,null,null,7.9,10.8
+DCO_BOM,449_Itavaara_OL_KR44_775m,TRUE,FALSE,FALSE,"terrestrial biome",borehole,rock,null,null,7.8,14.8
+DCO_BOM,982_Itavaara_OL_KR49_532m,TRUE,FALSE,FALSE,"terrestrial biome",borehole,rock,null,null,7.4,10.5
+DCO_BOM,983_Itavaara_OL_KR23_424m,TRUE,FALSE,FALSE,"terrestrial biome",borehole,rock,null,null,7.5,9.8
+DCO_BOM,994_Itavaara_OL_KR1_609m,TRUE,FALSE,FALSE,"terrestrial biome",borehole,rock,null,null,7.8,13
+DCO_BOM,995_Itavaara_OL_KR2_596m,TRUE,FALSE,FALSE,"terrestrial biome",borehole,rock,null,null,8.6,12.9
+DCO_BOM,996_Itavaara_OL_KR13_360m,TRUE,FALSE,FALSE,"terrestrial biome",borehole,rock,null,null,7.9,9
+DCO_BRA,IODP_331_Site_C14B_1_1,TRUE,FALSE,FALSE,"marine biome","marine biome",mud,27.790218,126.900747,7.43,6
+DCO_BRA,IODP_331_Site_C14D_1_1,TRUE,FALSE,FALSE,"marine biome","marine biome",mud,27.79026,126.900677,7.38,6
+DCO_BRA,IODP_331_Site_C14D_1_3,TRUE,FALSE,FALSE,"marine biome","marine biome",sediment,27.79026,126.900677,6.89,15
+DCO_BRA,IODP_331_Site_C14D_1_4,TRUE,FALSE,FALSE,"marine biome","marine biome",sediment,27.79026,126.900677,6.94,19
+DCO_BRA,IODP_331_Site_C14D_2_3,TRUE,FALSE,FALSE,"marine biome","marine biome",sediment,27.79026,126.900677,7.01,38
+DCO_BRG,Site17A_447mbsf,TRUE,FALSE,FALSE,"marine biome",borehole,sediment,11.2811,93.1,7.2,14.4
+DCO_BRZ,CRO_CSW1_1A_Aug13,TRUE,FALSE,FALSE,"terrestrial biome",null,null,38.862,-122.414,12.39,16.16
+DCO_BRZ,CRO_CSW1_1A_Jul14,TRUE,FALSE,FALSE,"terrestrial biome",null,null,38.862,-122.414,12.05,15.75
+DCO_BRZ,CRO_CSW1_1B_Aug13,TRUE,FALSE,FALSE,"terrestrial biome",null,null,38.862,-122.414,12.39,16.16
+DCO_BRZ,CRO_CSW1_1B_Jul14,TRUE,FALSE,FALSE,"terrestrial biome",null,null,38.862,-122.414,12.32,16.31
+DCO_BRZ,CRO_CSW1_1C_Aug13,TRUE,FALSE,FALSE,"terrestrial biome",null,null,38.862,-122.414,12.39,16.16
+DCO_BRZ,CRO_CSW1_1C_Jul14,TRUE,FALSE,FALSE,"terrestrial biome",null,null,38.862,-122.414,12.32,16.31
+DCO_BRZ,CRO_CSW1_3A_Aug13,TRUE,FALSE,FALSE,"terrestrial biome",null,null,38.862,-122.41402,10.2,16.51
+DCO_BRZ,CRO_CSW1_3A_Jul14,TRUE,FALSE,FALSE,"terrestrial biome",null,null,38.862,-122.41402,10.29,15.6
+DCO_BRZ,CRO_CSW1_3B_Aug13,TRUE,FALSE,FALSE,"terrestrial biome",null,null,38.862,-122.41402,10.2,16.51
+DCO_BRZ,CRO_CSW1_3B_Jul14,TRUE,FALSE,FALSE,"terrestrial biome",null,null,38.862,-122.41402,10.29,15.6
+DCO_BRZ,CRO_CSW1_3C_Aug13,TRUE,FALSE,FALSE,"terrestrial biome",null,null,38.862,-122.41402,10.2,16.51
+DCO_BRZ,CRO_QV1_1A_Aug13,TRUE,FALSE,FALSE,"terrestrial biome",null,null,38.862,-122.43006,11.64,16.36
+DCO_BRZ,CRO_QV1_1A_Jul14,TRUE,FALSE,FALSE,"terrestrial biome",null,null,38.862,-122.43006,11.47,17.53
+DCO_BRZ,CRO_QV1_1B_Aug13,TRUE,FALSE,FALSE,"terrestrial biome",null,null,38.862,-122.43006,11.64,16.36
+DCO_BRZ,CRO_QV1_1B_Jul14,TRUE,FALSE,FALSE,"terrestrial biome",null,null,38.862,-122.43006,11.51,17.44
+DCO_BRZ,CRO_QV1_1C_Aug13,TRUE,FALSE,FALSE,"terrestrial biome",null,null,38.862,-122.43006,11.64,16.36
+DCO_BRZ,CRO_QV1_1C_Jul14,TRUE,FALSE,FALSE,"terrestrial biome",null,null,38.862,-122.43006,11.51,17.44
+DCO_BRZ,CRO_QV1_2A_Aug13,TRUE,FALSE,FALSE,"terrestrial biome",null,null,38.86202,-122.43006,9.07,16.63
+DCO_BRZ,CRO_QV1_2A_Jul14,TRUE,FALSE,FALSE,"terrestrial biome",null,null,38.86202,-122.43006,9.43,16.91
+DCO_BRZ,CRO_QV1_2B_Aug13,TRUE,FALSE,FALSE,"terrestrial biome",null,null,38.86202,-122.43006,9.07,16.63
+DCO_BRZ,CRO_QV1_2B_Jul14,TRUE,FALSE,FALSE,"terrestrial biome",null,null,38.86202,-122.43006,9.43,16.91
+DCO_BRZ,CRO_QV1_2C_Aug13,TRUE,FALSE,FALSE,"terrestrial biome",null,null,38.86202,-122.43006,9.07,16.63
+DCO_BRZ,CSWold_A_Aug13,TRUE,FALSE,FALSE,"terrestrial biome",null,null,38.86193,-122.414,9.82,18.18
+DCO_BRZ,CSWold_A_Dec13,TRUE,FALSE,FALSE,"terrestrial biome",null,null,38.86193,-122.414,9.36,17.9
+DCO_BRZ,CSWold_Mar12,TRUE,FALSE,FALSE,"terrestrial biome",null,null,38.86193,-122.414,9.76,null
+DCO_BRZ,N08A_A_Dec13,TRUE,FALSE,FALSE,"terrestrial biome",null,null,38.862,-122.43,10.17,15.34
+DCO_BRZ,N08A_B_Aug13,TRUE,FALSE,FALSE,"terrestrial biome",null,null,38.862,-122.43,10.37,17.99
+DCO_BRZ,N08Aa_Aug12,TRUE,FALSE,FALSE,"terrestrial biome",null,null,38.862,-122.43,10.52,16.2
+DCO_BRZ,N08B_A_Aug13,TRUE,FALSE,FALSE,"terrestrial biome",null,null,38.86201,-122.43,10.98,16.03
+DCO_BRZ,N08B_A_Dec13,TRUE,FALSE,FALSE,"terrestrial biome",null,null,38.86201,-122.43,10.55,15.03
+DCO_BRZ,N08B_July11,TRUE,FALSE,FALSE,"terrestrial biome",null,null,38.86201,-122.43,11.51,16.6
+DCO_BRZ,N08Ba_Aug12,TRUE,FALSE,FALSE,"terrestrial biome",null,null,38.86201,-122.43,10.81,16.2
+DCO_BRZ,N08Bb_Aug12,TRUE,FALSE,FALSE,"terrestrial biome",null,null,38.86201,-122.43,10.81,16.2
+DCO_BRZ,N08Bc_Aug12,TRUE,FALSE,FALSE,"terrestrial biome",null,null,38.86201,-122.43,10.8,16
+DCO_BRZ,N08C_A_Aug13,TRUE,FALSE,FALSE,"terrestrial biome",null,null,38.86202,-122.43,7.55,14.99
+DCO_BRZ,N08C_A_Dec13,TRUE,FALSE,FALSE,"terrestrial biome",null,null,38.86202,-122.43,8.67,15.1
+DCO_BRZ,N1A_Aug12,TRUE,FALSE,FALSE,"terrestrial biome",null,null,38.882,-122.478,6.91,17.2
+DCO_BRZ,N5A_Aug12,TRUE,FALSE,FALSE,"terrestrial biome",null,null,38.871,-122.428,9.16,16.7
+DCO_BRZ,Serp_CRO_8A_Apr11_Av4v5,FALSE,FALSE,FALSE,null,null,null,null,null,null,null
+DCO_BRZ,Serp_CRO_8A_Apr11_Bv4v5,TRUE,FALSE,FALSE,"terrestrial biome",null,null,38.862,-122.43,11.11,15.8
+DCO_BRZ,Serp_CRO_8A_Aug11_Av4v5,FALSE,FALSE,FALSE,null,null,null,null,null,null,null
+DCO_BRZ,Serp_CRO_8A_Aug11_Bv4v5,TRUE,FALSE,FALSE,"terrestrial biome",null,null,38.862,-122.43,10.7,18.4
+DCO_BRZ,Serp_CRO_8B_AprC11_Av4v5,FALSE,FALSE,FALSE,null,null,null,null,null,null,null
+DCO_BRZ,Serp_CRO_8B_AprC11_Bv4v5,TRUE,FALSE,FALSE,"terrestrial biome",null,null,38.86201,-122.43,11.62,19.4
+DCO_BRZ,Serp_CRO_8B_AprD11_Av4v5,FALSE,FALSE,FALSE,null,null,null,null,null,null,null
+DCO_BRZ,Serp_CRO_8B_AprD11_Bv4v5,TRUE,FALSE,FALSE,"terrestrial biome",null,null,38.86201,-122.43,11.62,19.4
+DCO_BRZ,Serp_CRO_CSW1_1A_Mar13,TRUE,FALSE,FALSE,"terrestrial biome",null,null,38.862,-122.414,12.17,14.85
+DCO_BRZ,Serp_CRO_CSW1_2A_Mar13,TRUE,FALSE,FALSE,"terrestrial biome",null,null,38.862,-122.414,8.68,14.8
+DCO_BRZ,Serp_CRO_CSW1_3B_Mar13,TRUE,FALSE,FALSE,"terrestrial biome",null,null,38.862,-122.414,10.08,15.19
+DCO_BRZ,Serp_CRO_CSW1_4A_Mar13,TRUE,FALSE,FALSE,"terrestrial biome",null,null,38.862,-122.414,7.77,14.23
+DCO_BRZ,Serp_CRO_CSW1_5A_Mar13,TRUE,FALSE,FALSE,"terrestrial biome",null,null,38.862,-122.414,9.34,15.24
+DCO_BRZ,Serp_CRO_CSWoldA_Mar13,TRUE,FALSE,FALSE,"terrestrial biome",null,null,38.86193,-122.414,9.84,17.74
+DCO_BRZ,Serp_CRO_CSWoldB_Mar13,TRUE,FALSE,FALSE,"terrestrial biome",null,null,38.86193,-122.414,9.84,17.74
+DCO_BRZ,Serp_CRO_CSWoldT0_Mar13,TRUE,FALSE,FALSE,"terrestrial biome",null,null,38.86193,-122.414,9.84,17.74
+DCO_BRZ,Serp_CRO_CSWold_11_11_Av4v5,FALSE,FALSE,FALSE,null,null,null,null,null,null,null
+DCO_BRZ,Serp_CRO_CSWold_11_11_Bv4v5,TRUE,FALSE,FALSE,"terrestrial biome",null,null,38.86193,-122.414,9.88,null
+DCO_BRZ,Serp_CRO_N08AB_Mar13,TRUE,FALSE,FALSE,"terrestrial biome",null,null,38.862,-122.43,10.73,14.57
+DCO_BRZ,Serp_CRO_N08A_Aug11_Av4v5,FALSE,FALSE,FALSE,null,null,null,null,null,null,null
+DCO_BRZ,Serp_CRO_N08A_Aug11_Bv4v5,TRUE,FALSE,FALSE,"terrestrial biome",null,null,38.862,-122.43,10.7,18.4
+DCO_BRZ,Serp_CRO_N08BA_Mar13,TRUE,FALSE,FALSE,"terrestrial biome",null,null,38.86201,-122.43,10.87,14.65
+DCO_BRZ,Serp_CRO_N08BB_Mar13,TRUE,FALSE,FALSE,"terrestrial biome",null,null,38.86201,-122.43,10.87,14.65
+DCO_BRZ,Serp_CRO_N08CA_Mar13,TRUE,FALSE,FALSE,"terrestrial biome",null,null,38.86202,-122.43,7.41,14.56
+DCO_BRZ,Serp_CRO_N08T0_Mar13,TRUE,FALSE,FALSE,"terrestrial biome",null,null,38.862,-122.43,10.87,14.65
+DCO_BRZ,Serp_CRO_QV13A_Aug12_Bv4v5,TRUE,FALSE,FALSE,"terrestrial biome",null,null,38.862,-122.43006,10.13,16.9
+DCO_BRZ,Serp_CRO_QV1_1A_Mar13,TRUE,FALSE,FALSE,"terrestrial biome",null,null,38.862,-122.43006,11.41,15.36
+DCO_BRZ,Serp_CRO_QV1_2B_Mar13,TRUE,FALSE,FALSE,"terrestrial biome",null,null,38.862,-122.43006,7.02,15.8
+DCO_BRZ,Serp_CRO_QV1_3B_Mar13,TRUE,FALSE,FALSE,"terrestrial biome",null,null,38.862,-122.43006,9.43,16
+DCO_BRZ,Serp_LC1408,TRUE,FALSE,FALSE,"marine biome","marine biome",null,30.123203,-42.118972,10.67,88
+DCO_BRZ,Serp_LC_BB13,TRUE,FALSE,FALSE,"marine biome","marine biome",null,30.123934,-42.120154,10.1,70
+DCO_BRZ,Serp_LC_BB20,TRUE,FALSE,FALSE,"marine biome","marine biome",null,30.123934,-42.120154,10.1,70
+DCO_BRZ,Serp_LC_BB21,TRUE,FALSE,FALSE,"marine biome","marine biome",null,30.123934,-42.120154,10.1,70
+DCO_BRZ,Serp_LC_BB22,TRUE,FALSE,FALSE,"marine biome","marine biome",null,30.123934,-42.120154,10.1,70
+DCO_BRZ,Serp_LC_BB31,TRUE,FALSE,FALSE,"marine biome","marine biome",null,30.12397,-42.120113,10.2,88
+DCO_BRZ,Serp_LC_BB35,TRUE,FALSE,FALSE,"marine biome","marine biome",null,30.124755,-42.119024,8.7,28
+DCO_BRZ,Serp_LC_BB36,TRUE,FALSE,FALSE,"marine biome","marine biome",null,30.123961,-42.119688,10.97,55
+DCO_BRZ,Serp_LC_BB6,TRUE,FALSE,FALSE,"marine biome","marine biome",null,30.123889,-42.120061,10.7,91
+DCO_BRZ,Serp_LIG_BR2_back1_Jun12_Av4v5,FALSE,FALSE,FALSE,null,null,null,null,null,null,null
+DCO_BRZ,Serp_LIG_BR2_back1_Jun12_Bv4v5,TRUE,FALSE,FALSE,"terrestrial biome",null,null,44.4512,8.782,8.06,18.7
+DCO_BRZ,Serp_LIG_BR2_back2_Jun12_Av4v5,FALSE,FALSE,FALSE,null,null,null,null,null,null,null
+DCO_BRZ,Serp_LIG_BR2_back2_Jun12_Bv4v5,TRUE,FALSE,FALSE,"terrestrial biome",null,null,44.4512,8.782,8.06,18.7
+DCO_BRZ,Serp_LIG_Gor_upA_Jul12_Av4v5,FALSE,FALSE,FALSE,null,null,null,null,null,null,null
+DCO_BRZ,Serp_LIG_Gor_upA_Jul12_Bv4v5,TRUE,FALSE,FALSE,"terrestrial biome",null,null,44.597,8.7833,9.34,22.9
+DCO_BRZ,Serp_LIG_Gor_upB_Jul12_Av4v5,FALSE,FALSE,FALSE,null,null,null,null,null,null,null
+DCO_BRZ,Serp_LIG_Gor_upB_Jul12_Bv4v5,TRUE,FALSE,FALSE,"terrestrial biome",null,null,44.597,8.7833,9.34,22.9
+DCO_BRZ,Serp_LIG_L43_upstream_Oct11_Av4v5,FALSE,FALSE,FALSE,null,null,null,null,null,null,null
+DCO_BRZ,Serp_LIG_L43_upstream_Oct11_Bv4v5,TRUE,FALSE,FALSE,"terrestrial biome",null,null,44.4584,8.7688,9,12.1
+DCO_BRZ,Serp_Lig_GOR1AB_2013,TRUE,FALSE,FALSE,"terrestrial biome",null,null,44.597,8.7833,12.06,20.5
+DCO_BRZ,Serp_Lig_GOR1CDEF_2013,TRUE,FALSE,FALSE,"terrestrial biome",null,null,44.597,8.7833,12.25,20
+DCO_BRZ,Serp_Lig_GORupA_2013,TRUE,FALSE,FALSE,"terrestrial biome",null,null,44.597,8.7833,9.5,21.9
+DCO_BRZ,Serp_Lig_GORupB_2013,TRUE,FALSE,FALSE,"terrestrial biome",null,null,44.597,8.7833,9.26,22.4
+DCO_BRZ,Serp_TL_WHC2A_DNA3_Jun11_Bv4v5,TRUE,FALSE,FALSE,"terrestrial biome",null,null,49.4653,-57.95763,null,null
+DCO_BRZ,Serp_TL_WHC2B_Aug10,TRUE,FALSE,FALSE,"terrestrial biome",null,null,49.4653,-57.95763,null,null
+DCO_BRZ,Serp_TL_WHC2C_DNA2_Jun11_Bv4v5,TRUE,FALSE,FALSE,"terrestrial biome",null,null,49.4653,-57.95763,null,null
+DCO_BRZ,Serp_TL_WHC75_DNA2_Jun11_Bv4v5,TRUE,FALSE,FALSE,"terrestrial biome",null,null,49.4648,-57.9584,null,null
+DCO_DAL,AgiaParaskevi,TRUE,FALSE,FALSE,"terrestrial biome","hydrothermal vent",water,39.924,23.59,6.31,31.5
+DCO_DAL,Alexandria,TRUE,FALSE,FALSE,"terrestrial biome","hydrothermal vent",water,40.667,22.424,7.82,33.9
+DCO_DAL,Control,FALSE,TRUE,FALSE,"terrestrial biome",null,water,40,23,null,null
+DCO_DAL,Giotrisi,TRUE,FALSE,FALSE,"terrestrial biome","hydrothermal vent",water,40.497,25.603,6.38,77.3
+DCO_DAL,Kabasilon,TRUE,FALSE,FALSE,"terrestrial biome","hydrothermal vent",water,40.105,20.707,7.25,30.2
+DCO_DAL,Mesochori3,TRUE,FALSE,FALSE,"terrestrial biome","hydrothermal vent",water,40.891,21.532,6.74,27.7
+DCO_DAL,NeaApollonia3,TRUE,FALSE,FALSE,"terrestrial biome","hydrothermal vent",water,40.657,23.415,7.71,45.2
+DCO_DAL,NeaKessani,TRUE,FALSE,FALSE,"terrestrial biome","hydrothermal vent",water,41.017,25.051,6.3,61.5
+DCO_DAL,NeoErasmio,TRUE,FALSE,FALSE,"terrestrial biome","hydrothermal vent",water,40.923,24.836,8.03,55
+DCO_DAL,Nymfopetra,TRUE,FALSE,FALSE,"terrestrial biome","hydrothermal vent",water,40.689,23.355,7.85,37.4
+DCO_DAL,Termopigi,TRUE,FALSE,FALSE,"terrestrial biome","hydrothermal vent",water,41.282,23.364,6.11,45.4
+DCO_DAL,Traianoupoli,TRUE,FALSE,FALSE,"terrestrial biome","hydrothermal vent",water,40.866,26.034,6.56,50.8
+DCO_GMSB,P10_2,TRUE,FALSE,FALSE,"marine biome",borehole,sediment,27.3,-111.42,null,3
+DCO_GMSB,P10_4,TRUE,FALSE,FALSE,"marine biome",borehole,sediment,27.3,-111.42,null,3
+DCO_GMSB,P11_2,TRUE,FALSE,FALSE,"marine biome",borehole,sediment,27.3,-111.4,null,3
+DCO_GMSB,P11_5,TRUE,FALSE,FALSE,"marine biome",borehole,sediment,27.3,-111.4,null,3
+DCO_GMSB,P12_4,TRUE,FALSE,FALSE,"marine biome",borehole,sediment,27.52,-111.41,null,8
+DCO_GMSB,P13_4,TRUE,FALSE,FALSE,"marine biome",borehole,sediment,27.12,-111.13,null,3
+DCO_GMSB,P3_4,TRUE,FALSE,FALSE,"marine biome",borehole,sediment,27.37,-111.52,null,3
+DCO_GMSB,P4_3,TRUE,FALSE,FALSE,"marine biome",borehole,sediment,27.38,-111.53,null,3
+DCO_GMSB,P6_3,TRUE,FALSE,FALSE,"marine biome",borehole,sediment,27.38,-111.36,null,3
+DCO_GMSB,P6_4,TRUE,FALSE,FALSE,"marine biome",borehole,sediment,27.38,-111.36,null,3
+DCO_GRA,920W2,TRUE,FALSE,FALSE,"terrestrial biome",seep,sediment,47.825,-92.252,6.09,11.7
+DCO_GRA,932W3,null,null,null,null,null,null,null,null,null,null
+DCO_GRA,942W14,TRUE,FALSE,FALSE,"terrestrial biome",seep,sediment,47.825,-92.252,6.35,11.5
+DCO_GRA,944W11,TRUE,FALSE,FALSE,"terrestrial biome",seep,sediment,47.825,-92.252,5.47,11.1
+DCO_GRA,951W11,TRUE,FALSE,FALSE,"terrestrial biome",seep,sediment,47.825,-92.252,6.29,11.7
+DCO_GRA,966W2,null,null,null,null,null,null,null,null,null,null
+DCO_GRD,69A4R1_75_85_bacteria,null,null,null,null,null,null,null,null,null,null
+DCO_GRD,69A9R2_124_129_Bac,null,null,null,null,null,null,null,null,null,null
+DCO_GRD,70C3R1_85_91_Bac,null,null,null,null,null,null,null,null,null,null
+DCO_GRD,74A_1R1_50_60_Bac,null,null,null,null,null,null,null,null,null,null
+DCO_HAN,CH_0001,FALSE,FALSE,TRUE,"marine biome",enrichment,sediment,77.587483,15.587483,null,2
+DCO_HAN,CH_0002,FALSE,FALSE,TRUE,"marine biome",enrichment,sediment,77.587483,15.587483,null,2
+DCO_HAN,CH_0003,FALSE,FALSE,TRUE,"marine biome",enrichment,sediment,77.587483,15.587483,null,2
+DCO_HAN,CH_0004,FALSE,FALSE,TRUE,"marine biome",enrichment,sediment,77.587483,15.587483,null,2
+DCO_HAN,CH_0005,FALSE,FALSE,TRUE,"marine biome",enrichment,sediment,77.587483,15.587483,null,2
+DCO_HAN,CH_0006,FALSE,FALSE,TRUE,"marine biome",enrichment,sediment,77.587483,15.587483,null,2
+DCO_HAN,CH_0007,FALSE,FALSE,TRUE,"marine biome",enrichment,sediment,77.587483,15.587483,null,2
+DCO_HAN,CH_0008,FALSE,FALSE,TRUE,"marine biome",enrichment,sediment,77.587483,15.587483,null,2
+DCO_HAN,CH_0009,FALSE,FALSE,TRUE,"marine biome",enrichment,sediment,79.715333,11.077,null,1
+DCO_HAN,CH_0010,FALSE,FALSE,TRUE,"marine biome",enrichment,sediment,79.715333,11.077,null,1
+DCO_HAN,CH_0011,FALSE,FALSE,TRUE,"marine biome",enrichment,sediment,79.715333,11.077,null,1
+DCO_HAN,CH_0012,FALSE,FALSE,TRUE,"marine biome",enrichment,sediment,79.715333,11.077,null,1
+DCO_HAN,CH_0013,FALSE,FALSE,TRUE,"marine biome",enrichment,sediment,79.715333,11.077,null,1
+DCO_HAN,CH_0014,FALSE,FALSE,TRUE,"marine biome",enrichment,sediment,79.715333,11.077,null,1
+DCO_HAN,CH_0015,FALSE,FALSE,TRUE,"marine biome",enrichment,sediment,79.715333,11.077,null,1
+DCO_HAN,CH_0016,FALSE,FALSE,TRUE,"marine biome",enrichment,sediment,79.715333,11.077,null,1
+DCO_HAN,CH_0017,FALSE,FALSE,TRUE,"marine biome",enrichment,sediment,79.715333,11.077,null,1
+DCO_HAN,CH_0018,FALSE,FALSE,TRUE,"marine biome",enrichment,sediment,79.715333,11.077,null,1
+DCO_HAN,CH_0019,FALSE,FALSE,TRUE,"marine biome",enrichment,sediment,79.715333,11.077,null,1
+DCO_HAN,CH_0020,FALSE,FALSE,TRUE,"marine biome",enrichment,sediment,79.715333,11.077,null,1
+DCO_HAN,CH_0021,FALSE,FALSE,TRUE,"marine biome",enrichment,sediment,79.715333,11.077,null,1
+DCO_HAN,CH_0022,FALSE,FALSE,TRUE,"marine biome",enrichment,sediment,79.715333,11.077,null,1
+DCO_HIN,BS_15105_2_147_167,TRUE,FALSE,FALSE,"marine biome",null,sediment,41.526,32.63,7.4,null
+DCO_HIN,BS_15105_2_390_405,TRUE,FALSE,FALSE,"marine biome",null,null,41.526,32.63,7.3,null
+DCO_HIN,BS_15105_2_420_435,TRUE,FALSE,FALSE,"marine biome",null,sediment,41.526,32.63,7.3,null
+DCO_HIN,EM_15103_2_21_34,TRUE,FALSE,FALSE,"marine biome",null,null,33.028,32.63,7.7,null
+DCO_HIN,EM_15103_2_220_240,TRUE,FALSE,FALSE,"marine biome",null,sediment,33.028,32.63,7.7,null
+DCO_HIN,EM_15103_2_435_455,TRUE,FALSE,FALSE,"marine biome",null,null,33.028,32.63,7.6,null
+DCO_JOYE,GC600_1015,null,null,null,null,null,null,null,null,null,null
+DCO_JOYE,GC600_1520,null,null,null,null,null,null,null,null,null,null
+DCO_JOYE,GC600_Microcosm,null,null,null,null,null,null,null,null,null,null
+DCO_JOYE,GC767_1015,null,null,null,null,null,null,null,null,null,null
+DCO_JOYE,GC767_1520,null,null,null,null,null,null,null,null,null,null
+DCO_JOYE,GC767_Microcosm,null,null,null,null,null,null,null,null,null,null
+DCO_JOYE,MC118_1015,null,null,null,null,null,null,null,null,null,null
+DCO_JOYE,MC118_1520,null,null,null,null,null,null,null,null,null,null
+DCO_JOYE,MC118_Microcosm,null,null,null,null,null,null,null,null,null,null
+DCO_JOYE,OC26_1015,null,null,null,null,null,null,null,null,null,null
+DCO_JOYE,OC26_1520,null,null,null,null,null,null,null,null,null,null
+DCO_JOYE,OC26_Microcosm,null,null,null,null,null,null,null,null,null,null
+DCO_KAZ,RCon,null,TRUE,null,"terrestrial biome",null,null,17.29902778,73.73833333,9,50
+DCO_KAZ,S1_MT,FALSE,FALSE,TRUE,"terrestrial biome",null,null,17.29902778,73.73833333,9,50
+DCO_KAZ,S2_MT,FALSE,FALSE,TRUE,"terrestrial biome",null,null,17.29902778,73.73833333,9,50
+DCO_KAZ,S3_MT,FALSE,FALSE,TRUE,"terrestrial biome",null,null,17.29902778,73.73833333,9,50
+DCO_KAZ,S4_MT,FALSE,FALSE,TRUE,"terrestrial biome",null,null,17.29902778,73.73833333,9,50
+DCO_KAZ,S5_HC,FALSE,FALSE,TRUE,"terrestrial biome",null,null,17.29902778,73.73833333,9,50
+DCO_KAZ,S6_HC,FALSE,FALSE,TRUE,"terrestrial biome",null,null,17.29902778,73.73833333,9,50
+DCO_KAZ,S7_HC,FALSE,FALSE,TRUE,"terrestrial biome",null,null,17.29902778,73.73833333,9,50
+DCO_KAZ,S8_HC,FALSE,FALSE,TRUE,"terrestrial biome",null,null,17.29902778,73.73833333,9,50
+DCO_KLA,Cetus_summit_220,TRUE,FALSE,FALSE,"marine biome",seep,sediment,37.88012,17.46227,null,14.6
+DCO_KLA,Cetus_summit_40,TRUE,FALSE,FALSE,"marine biome",seep,sediment,37.88012,17.46227,null,13.9
+DCO_KLA,Extraction_blank,FALSE,TRUE,FALSE,"marine biome",volcano,null,null,null,null,null
+DCO_KLA,Venere_flow_150_m_from_summit_5,TRUE,FALSE,FALSE,"marine biome",seep,sediment,38.60658,17.18934,null,16.8
+DCO_KLA,Venere_flow_150_m_from_summit_60,TRUE,FALSE,FALSE,"marine biome",seep,sediment,38.60655,17.18913,null,16.8
+DCO_KLA,Venere_flow_80_m_from_summit_2,TRUE,FALSE,FALSE,"marine biome",seep,sediment,38.6075,17.18804,null,13.9
+DCO_KLA,Venere_flow_80_m_from_summit_267,TRUE,FALSE,FALSE,"marine biome",seep,sediment,38.60747,17.18803,null,17
+DCO_KLA,Venere_flow_80_m_from_summit_48,TRUE,FALSE,FALSE,"marine biome",seep,sediment,38.60747,17.18803,null,16.2
+DCO_KLA,Venere_summit_2,TRUE,FALSE,FALSE,"marine biome",seep,sediment,38.60757,17.18708,null,14.1
+DCO_KLA,Venere_summit_470,TRUE,FALSE,FALSE,"marine biome",seep,sediment,38.60758,17.18705,null,22
+DCO_KLA,Venere_summit_88,TRUE,FALSE,FALSE,"marine biome",seep,sediment,38.60758,17.18705,null,22
+DCO_LAV,Wallula_2009_213,null,null,null,"terrestrial biome",well,rock,null,null,9.1,19.9-22.9
+DCO_LAV,Wallula_2011_34,null,null,null,"terrestrial biome",well,rock,null,null,10.1,34.7
+DCO_LAZ,GC03top,FALSE,TRUE,FALSE,"marine biome","marine biome",sediment,9.078,87.098,7.7,2.0
+DCO_LAZ,PC1A,TRUE,FALSE,FALSE,"marine biome","marine biome",sediment,9.078,87.096,7.7,2
+DCO_LAZ,PC1A_2,TRUE,FALSE,FALSE,"marine biome","marine biome",sediment,9.078,87.096,7.7,2.0
+DCO_LAZ,PC2A,TRUE,FALSE,FALSE,"marine biome","marine biome",sediment,9.081,87.094,7.7,2
+DCO_LAZ,PC2B,TRUE,FALSE,FALSE,"marine biome","marine biome",sediment,9.081,87.093,7.6,10
+DCO_LAZ,PC2C,TRUE,FALSE,FALSE,"marine biome","marine biome",sediment,9.081,87.093,7.6,10
+DCO_LAZ,PC2D,TRUE,FALSE,FALSE,"marine biome","marine biome",sediment,9.077,87.091,7.7,2
+DCO_LAZ,PC3A,TRUE,FALSE,FALSE,"marine biome","marine biome",sediment,9.089,87.1,7.6,10
+DCO_LAZ,PC3A_2,TRUE,FALSE,FALSE,"marine biome","marine biome",sediment,9.089,87.1,7.6,10
+DCO_LAZ,PC3B,TRUE,FALSE,FALSE,"marine biome","marine biome",sediment,9.089,87.1,7.6,10
+DCO_LAZ,PC3B_2,TRUE,FALSE,FALSE,"marine biome","marine biome",sediment,9.089,87.1,7.6,10
+DCO_LAZ,PC3C,TRUE,FALSE,FALSE,"marine biome","marine biome",sediment,9.089,87.1,7.6,10
+DCO_LAZ,PC3C_2,TRUE,FALSE,FALSE,"marine biome","marine biome",sediment,9.089,87.1,7.6,10
+DCO_LAZ,PC4A,TRUE,FALSE,FALSE,"marine biome","marine biome",sediment,9.086,87.1,7.6,10
+DCO_LAZ,PC4B,TRUE,FALSE,FALSE,"marine biome","marine biome",sediment,9.086,87.1,7.6,10
+DCO_LIN,TWNCO2_09_1909m,TRUE,FALSE,FALSE,"terrestrial biome",null,sediment,null,null,null,67
+DCO_LIN,TWNCO2_12_2056m,TRUE,FALSE,FALSE,"terrestrial biome",null,sediment,null,null,null,70
+DCO_LIN,TWNCO2_13_2108m,TRUE,FALSE,FALSE,"terrestrial biome",null,sediment,null,null,null,71
+DCO_LIN,TWNCO2_14_2172m,TRUE,FALSE,FALSE,"terrestrial biome",null,sediment,null,null,null,73
+DCO_LIN,TWNCO2_15_2224m,TRUE,FALSE,FALSE,"terrestrial biome",null,sediment,null,null,null,74
+DCO_LIN,TWNCO2_16_2273m,TRUE,FALSE,FALSE,"terrestrial biome",null,sediment,null,null,null,75
+DCO_LIN,TWNCO2_17_2325m,TRUE,FALSE,FALSE,"terrestrial biome",null,sediment,null,null,null,76
+DCO_LIN,TWNCO2_18_2397m,TRUE,FALSE,FALSE,"terrestrial biome",null,sediment,null,null,null,78
+DCO_LIN,TWNCO2_20_2465m,TRUE,FALSE,FALSE,"terrestrial biome",null,sediment,null,null,null,80
+DCO_LIN,TWNCO2_22_2547m,TRUE,FALSE,FALSE,"terrestrial biome",null,sediment,null,null,null,82
+DCO_LLO,BRF1_BR170218_1,TRUE,FALSE,FALSE,"terrestrial biome",spring,null,10.89837,-85.32839,6.16,59
+DCO_LLO,BRF2_BR170218_2,null,null,null,"terrestrial biome",spring,null,null,null,5.87,53.8
+DCO_LLO,BRS1_BR170218_1,TRUE,FALSE,FALSE,"terrestrial biome",spring,null,10.89837,-85.32839,6.16,59
+DCO_LLO,BRS2_BR170218_2,TRUE,FALSE,FALSE,"terrestrial biome",spring,null,10.89837,-85.32853,5.87,53.8
+DCO_LLO,CYF_CY170214,TRUE,FALSE,FALSE,"terrestrial biome",spring,null,10.287497,-84.955524,6.31,72
+DCO_LLO,CYS_CY170214,TRUE,FALSE,FALSE,"terrestrial biome",spring,null,10.287497,-84.955524,6.31,72
+DCO_LLO,EPF_EP170215,null,null,null,"terrestrial biome",spring,null,null,null,9.99,26.4
+DCO_LLO,EPS_EP170215,TRUE,FALSE,FALSE,"terrestrial biome",spring,null,9.901885,-85.454327,9.99,26.4
+DCO_LLO,ESF9_ES_F9,null,null,null,"terrestrial biome",null,null,null,null,null,null
+DCO_LLO,ETF_ET170220,TRUE,FALSE,FALSE,"terrestrial biome",spring,null,10.484006,-84.675853,6.06,40
+DCO_LLO,ETS_ET170220,null,null,null,"terrestrial biome",spring,null,null,null,6.06,40
+DCO_LLO,FAF_FA170219,TRUE,FALSE,FALSE,"terrestrial biome",spring,null,10.336843,-85.069499,5.93,55.2
+DCO_LLO,FAS_FA170219,TRUE,FALSE,FALSE,"terrestrial biome",spring,null,10.336843,-85.069499,5.93,55.2
+DCO_LLO,MTF_MT170219,TRUE,FALSE,FALSE,"terrestrial biome",spring,null,10.595774,-85.238451,6.32,59.1
+DCO_LLO,PBS_Poas_Background,TRUE,FALSE,FALSE,"terrestrial biome",volcano,null,10.196777,-84.229892,null,null
+DCO_LLO,PFF_PF170224,TRUE,FALSE,FALSE,"terrestrial biome",spring,null,10.518466,-84.11518,5.81,28.7
+DCO_LLO,PFS_PF170222,null,null,null,"terrestrial biome",spring,null,null,null,5.81,28.7
+DCO_LLO,PGF_PG170224,TRUE,FALSE,FALSE,"terrestrial biome",lake,null,-84.227294,-84.227294,null,null
+DCO_LLO,PGS_PG170224,TRUE,FALSE,FALSE,"terrestrial biome",lake,null,-84.227294,-84.227294,null,null
+DCO_LLO,PLS_PL170224,TRUE,FALSE,FALSE,"terrestrial biome",volcano,null,10.196777,-84.229892,0.85,37.6
+DCO_LLO,QHF2_QH170212_2,TRUE,FALSE,FALSE,"terrestrial biome",spring,null,9.561575,-84.123468,8.69,48.7
+DCO_LLO,QHS1_QH170213_1,null,null,null,"terrestrial biome",spring,null,null,null,null,null
+DCO_LLO,QHS2_QH170213_2,null,null,null,"terrestrial biome",spring,null,null,null,8.69,48.7
+DCO_LLO,QNF_QN170220,TRUE,FALSE,FALSE,"terrestrial biome",spring,null,10.495573,-84.696714,5.6,22.9
+DCO_LLO,QNS_QN170220,null,null,null,"terrestrial biome",spring,null,null,null,5.6,22.9
+DCO_LLO,RSS_RS170216,null,null,null,"terrestrial biome",spring,null,null,null,null,null
+DCO_LLO,S14_S_14,TRUE,FALSE,FALSE,null,null,null,null,null,null,null
+DCO_LLO,S33_S_33,null,null,null,"terrestrial biome",null,null,null,null,null,null
+DCO_LLO,SIS_SI170217,TRUE,FALSE,FALSE,"terrestrial biome",spring,null,10.301239,-85.610549,9.83,35.9
+DCO_LLO,SLF_SL170214,null,null,null,"terrestrial biome",spring,null,null,null,6.12,57
+DCO_LLO,SLS_SL170214_S,TRUE,FALSE,FALSE,"terrestrial biome",spring,null,10.290599,-84.972435,6.12,57
+DCO_LLO,STS_ST170223,TRUE,FALSE,FALSE,"terrestrial biome",volcano,null,10.290599,-84.972435,4.51,55.8
+DCO_LLO,TCF_TC170221,null,null,null,"terrestrial biome",spring,null,null,null,6.24,60
+DCO_LLO,TCS_TC170221_2,TRUE,FALSE,FALSE,"terrestrial biome",spring,null,10.366486,-84.381208,6.24,60
+DCO_LLO,VCS_VC170218,TRUE,FALSE,FALSE,"terrestrial biome",spring,null,10.897847,-85.326461,5,59.8
+DCO_LOIH,J2_672_BM1_B12345,FALSE,TRUE,FALSE,"marine biome","marine biome",null,18.906,-155.257,null,null
+DCO_LOIH,J2_674_Scoop_2,TRUE,FALSE,FALSE,"marine biome","hydrothermal vent",water,18.906,-155.257,null,null
+DCO_LOIH,J672black_Av4v5,TRUE,FALSE,FALSE,"marine biome","hydrothermal vent",water,18.906,-155.257,null,47.1
+DCO_LOIH,J672yellow_Av4v5,TRUE,FALSE,FALSE,"marine biome","hydrothermal vent",water,18.906,-155.257,null,40.7
+DCO_LOIH,J674black_Bv4v5,TRUE,FALSE,FALSE,"marine biome","hydrothermal vent",water,18.906,-155.257,null,25.7
+DCO_LOIH,J675red2black2_Av4v5,FALSE,TRUE,FALSE,"marine biome","marine biome",null,18.906,-155.257,null,41.3
+DCO_LOIH,J675red2black2_B,FALSE,TRUE,FALSE,"marine biome","marine biome",fluid,18.906,-155.257,null,41.3
+DCO_LOIH,J675yellow_Av4v5,TRUE,FALSE,FALSE,"marine biome","hydrothermal vent",water,18.906,-155.257,null,42.4
+DCO_LOIH,J675yellow_Bv4v5,TRUE,FALSE,FALSE,"marine biome","hydrothermal vent",water,18.906,-155.257,null,42.4
+DCO_LOIH,J676black_Av4v5,TRUE,FALSE,FALSE,"marine biome","hydrothermal vent",water,18.906,-155.257,null,30.8
+DCO_LOIH,J676black_Bv4v5,TRUE,FALSE,FALSE,"marine biome","hydrothermal vent",water,18.906,-155.257,null,30.8
+DCO_LOIH,J676red_Av4v5,TRUE,FALSE,FALSE,"marine biome","hydrothermal vent",water,18.906,-155.257,null,4
+DCO_LZA,AHS_11,TRUE,FALSE,FALSE,"terrestrial biome","hot spring",null,45.0212,-122.0098,7.2,12.4
+DCO_LZA,AHS_12,TRUE,FALSE,FALSE,"terrestrial biome","hot spring",null,45.0212,-122.0098,7.46,27
+DCO_LZA,AHS_13,TRUE,FALSE,FALSE,"terrestrial biome","hot spring",null,45.0212,-122.0098,7.27,51
+DCO_LZA,AHS_14,TRUE,FALSE,FALSE,"terrestrial biome","hot spring",null,45.0212,-122.0098,7.46,27
+DCO_LZA,AHS_19,TRUE,FALSE,FALSE,"terrestrial biome","hot spring",null,45.0212,-122.0098,7.27,51
+DCO_LZA,AHS_20,TRUE,FALSE,FALSE,"terrestrial biome","hot spring",null,45.0212,-122.0098,7.27,51
+DCO_LZA,AHS_21,TRUE,FALSE,FALSE,"terrestrial biome","hot spring",null,45.0212,-122.0098,7.2,12.4
+DCO_LZA,AHS_4,TRUE,FALSE,FALSE,"terrestrial biome","hot spring",null,45.0212,-122.0098,7.88,85.9
+DCO_LZA,AHS_5,TRUE,FALSE,FALSE,"terrestrial biome","hot spring",null,45.0212,-122.0098,7.88,85.9
+DCO_LZA,AHS_6,TRUE,FALSE,FALSE,"terrestrial biome","hot spring",null,45.0212,-122.0098,null,85.5
+DCO_LZA,AHS_8,TRUE,FALSE,FALSE,"terrestrial biome","hot spring",null,45.0212,-122.0098,7.5,69.7
+DCO_LZA,AHS_9,TRUE,FALSE,FALSE,"terrestrial biome","hot spring",null,45.0212,-122.0098,7.88,85.9
+DCO_MAC,LD09_2_3,TRUE,FALSE,FALSE,"terrestrial biome",aquifer,null,43.403,12.976,7.1,14
+DCO_MAC,LI09_3,TRUE,FALSE,FALSE,"terrestrial biome",aquifer,"microbial mat material",43.403,12.976,7.5,13
+DCO_MAC,LI09_4,TRUE,FALSE,FALSE,"terrestrial biome",aquifer,"microbial mat material",43.403,12.976,7.5,13
+DCO_MAC,LI09_5,TRUE,FALSE,FALSE,"terrestrial biome",aquifer,"microbial mat material",43.403,12.976,7.5,13
+DCO_MAC,LI13_2,TRUE,FALSE,FALSE,"terrestrial biome",aquifer,"microbial mat material",43.403,12.976,7.5,13
+DCO_MAC,LO13_2,TRUE,FALSE,FALSE,"terrestrial biome",aquifer,"microbial mat material",43.403,12.976,7,14.5
+DCO_MAC,LO13_8,TRUE,FALSE,FALSE,"terrestrial biome",aquifer,"microbial mat material",43.403,12.976,7,14.5
+DCO_MAC,LV13_5,TRUE,FALSE,FALSE,"terrestrial biome",aquifer,"microbial mat material",43.403,12.976,7.1,13.9
+DCO_MAR,10A,TRUE,FALSE,FALSE,"terrestrial biome",volcano,rock,-16.26,168.13,null,46
+DCO_MAR,7A_,TRUE,FALSE,FALSE,"terrestrial biome",volcano,rock,-16.26,168.13,null,32
+DCO_MAR,7B_,TRUE,FALSE,FALSE,"terrestrial biome",volcano,rock,-16.26,168.13,null,32
+DCO_MAR,8A_,TRUE,FALSE,FALSE,"terrestrial biome",volcano,rock,-16.26,168.13,null,32
+DCO_MAR,8B_,TRUE,FALSE,FALSE,"terrestrial biome",volcano,rock,-16.26,168.13,null,32
+DCO_MAR,9A_,TRUE,FALSE,FALSE,"terrestrial biome",volcano,rock,-16.26,168.13,null,42
+DCO_MOS,BLM_1A,TRUE,FALSE,FALSE,"terrestrial biome",well,water,36.40116667,-116.468,null,null
+DCO_MOS,BLM_1B,TRUE,FALSE,FALSE,"terrestrial biome",well,water,36.40116667,-116.468,null,null
+DCO_MOS,Bilby_DNA2_280312,null,null,null,"terrestrial biome",well,rock,null,null,7.69,null
+DCO_MOS,ER_EC_11,TRUE,FALSE,FALSE,"terrestrial biome",well,rock,37.2,-116.48,8.2,44
+DCO_MOS,KC_1_12_10_SW2,null,null,null,null,null,null,null,null,null,null
+DCO_MOS,KC_7850_SWA,null,null,null,null,null,null,null,null,null,null
+DCO_MOS,KC_BH1A_MF,null,null,null,null,null,null,null,null,null,null
+DCO_MOS,KC_L7850_B_MF,null,null,null,null,null,null,null,null,null,null
+DCO_MOS,Nevares_DW2A,null,null,null,"terrestrial biome",null,rock,null,null,7.4,null
+DCO_MOS,Nevares_DW2B,TRUE,FALSE,FALSE,"terrestrial biome",well,rock,36.5073,-116.81967,7.4,43.3
+DCO_MOS,U12N_10_tunnel,TRUE,FALSE,FALSE,"terrestrial biome",mine,rock,37.21,-116.21,9..4,23
+DCO_MOT,0AMRd002,null,null,null,null,null,null,null,null,null,null
+DCO_MOT,0AMRd007,null,null,null,null,null,null,null,null,null,null
+DCO_MOT,0AMRd008,null,null,null,null,null,null,null,null,null,null
+DCO_MOT,0AMRd010,null,null,null,null,null,null,null,null,null,null
+DCO_MOT,0AMRd014,null,null,null,null,null,null,null,null,null,null
+DCO_MOT,0AMRd019,null,null,null,null,null,null,null,null,null,null
+DCO_MOT,0AMRd023,null,null,null,null,null,null,null,null,null,null
+DCO_MOT,0AMRd024,null,null,null,null,null,null,null,null,null,null
+DCO_MOT,0AMRd030,null,null,null,null,null,null,null,null,null,null
+DCO_MOT,0AMRd031,null,null,null,null,null,null,null,null,null,null
+DCO_MOT,0AMRd033,null,null,null,null,null,null,null,null,null,null
+DCO_MOT,0AMRd034,null,null,null,null,null,null,null,null,null,null
+DCO_MOT,0AMRd036,null,null,null,null,null,null,null,null,null,null
+DCO_MOT,0AMRd045,null,null,null,null,null,null,null,null,null,null
+DCO_MOT,0AMRd048,null,null,null,null,null,null,null,null,null,null
+DCO_MOT,0AMRd049,null,null,null,null,null,null,null,null,null,null
+DCO_MOT,0AMRd050_051_052,null,null,null,null,null,null,null,null,null,null
+DCO_MOT,0AMRd058,null,null,null,null,null,null,null,null,null,null
+DCO_MOT,0AMRd059,null,null,null,null,null,null,null,null,null,null
+DCO_MOT,0AMRd068,null,null,null,null,null,null,null,null,null,null
+DCO_MOT,0AMRd071,null,null,null,null,null,null,null,null,null,null
+DCO_MOT,0AMRd075,null,null,null,null,null,null,null,null,null,null
+DCO_ONS,A_BE326FW010813_cap,TRUE,FALSE,FALSE,"terrestrial biome","geological fracture",water,-28.24,26.796,8.2,34.2
+DCO_ONS,A_BE326FW080813_cap,TRUE,FALSE,FALSE,"terrestrial biome","geological fracture",water,-28.24,26.796,8.21,35.8
+DCO_ONS,A_BE326FW150813MF,TRUE,FALSE,FALSE,"terrestrial biome","geological fracture",water,-28.24,26.796,8.1,35.3
+DCO_ONS,A_BE326FW150813_cap,TRUE,FALSE,FALSE,"terrestrial biome","geological fracture",water,-28.24,26.796,8.1,35.3
+DCO_ONS,A_BE326FW250111,TRUE,FALSE,FALSE,"terrestrial biome","geological fracture",water,-28.24,26.796,8.83,36.9
+DCO_ONS,A_BE326FW270712,TRUE,FALSE,FALSE,"terrestrial biome","geological fracture",water,-28.24,26.796,8.23,29.3
+DCO_ONS,A_DR5IPC280513,TRUE,FALSE,FALSE,"terrestrial biome","geological fracture",water,-26.42,27.504,8.08,26.6
+DCO_ONS,A_DR5IPC280711,TRUE,FALSE,FALSE,"terrestrial biome","geological fracture",water,-26.42,27.504,7.4,26.8
+DCO_ONS,B_BE326FW010813_cap,TRUE,FALSE,FALSE,"terrestrial biome","geological fracture",water,-28.24,26.796,8.2,34.2
+DCO_ONS,B_BE326FW010813_cap_2,TRUE,FALSE,FALSE,"terrestrial biome","geological fracture",water,-28.24,26.796,8.2,34.2
+DCO_ONS,B_BE326FW080813_cap,TRUE,FALSE,FALSE,"terrestrial biome","geological fracture",water,-28.24,26.796,8.21,35.8
+DCO_ONS,B_BE326FW080813_cap_2,TRUE,FALSE,FALSE,"terrestrial biome","geological fracture",water,-28.24,26.796,8.21,35.8
+DCO_ONS,B_BE326FW150813_MF,TRUE,FALSE,FALSE,"terrestrial biome","geological fracture",water,-28.24,26.796,8.1,35.3
+DCO_ONS,B_BE326FW150813_MF_2,TRUE,FALSE,FALSE,"terrestrial biome","geological fracture",water,-28.24,26.796,8.1,35.3
+DCO_ONS,B_BE326FW150813_cap,TRUE,FALSE,FALSE,"terrestrial biome","geological fracture",water,-28.24,26.796,8.1,35.3
+DCO_ONS,B_BE326FW150813_cap_2,TRUE,FALSE,FALSE,"terrestrial biome","geological fracture",water,-28.24,26.796,8.1,35.3
+DCO_ONS,B_BE326FW250111,TRUE,FALSE,FALSE,"terrestrial biome","geological fracture",water,-28.24,26.796,8.83,36.9
+DCO_ONS,B_BE326FW270712,TRUE,FALSE,FALSE,"terrestrial biome","geological fracture",water,-28.24,26.796,8.23,29.3
+DCO_ONS,B_DR5IPC280513,TRUE,FALSE,FALSE,"terrestrial biome","geological fracture",water,-26.42,27.504,8.08,26.6
+DCO_ONS,B_DR5IPC280711,TRUE,FALSE,FALSE,"terrestrial biome","geological fracture",water,-26.42,27.504,7.4,26.8
+DCO_ORC,4H_1,null,null,null,"marine biome",null,sediment,null,null,7.37,null
+DCO_ORC,4H_3_upper,null,null,null,"marine biome",null,sediment,null,null,7.25,null
+DCO_ORC,IODP_X336_U1383C_30R,TRUE,FALSE,FALSE,"marine biome",borehole,sediment,22.80221,-46.05259,7.6,4
+DCO_ORC,IODP_X336_U1383D_5H4,null,null,null,null,null,sediment,null,null,null,null
+DCO_ORC,JdF16R2,TRUE,FALSE,FALSE,null,"ocean trench",rock,47.761047,-127.7612,null,null
+DCO_ORC,JdF21R1A,TRUE,FALSE,FALSE,null,"ocean trench",rock,47.761047,-127.7612,null,null
+DCO_ORC,JdF21R1B,TRUE,FALSE,FALSE,null,"ocean trench",rock,47.761047,-127.7612,null,null
+DCO_ORC,JdF4H2,TRUE,FALSE,FALSE,"marine biome",null,sediment,47.28877,-128.03562,7.25,null
+DCO_ORC,JdF4HCC,TRUE,FALSE,FALSE,"marine biome",null,sediment,47.28877,-128.03562,7.25,null
+DCO_ORC,JdF5X1,TRUE,FALSE,FALSE,"marine biome",null,sediment,47.289197,-128.0351,7.5,null
+DCO_ORC,JdF6XCC,FALSE,TRUE,FALSE,null,null,sediment,null,null,null,null
+DCO_ORC,JdF8X2,TRUE,FALSE,FALSE,"marine biome",null,sediment,47.289197,-128.0351,7.45,null
+DCO_ORC,JdF8X5,TRUE,FALSE,FALSE,"marine biome",null,sediment,47.289197,-128.0351,7.14,null
+DCO_ORC,JdFback,TRUE,FALSE,FALSE,"marine biome",null,sediment,47.292873,-128.029332,null,null
+DCO_PED,KA2198A_Prov_1,FALSE,FALSE,TRUE,"terrestrial biome",aquifer,null,57.4344,16.66,7.5,12
+DCO_PED,KA3110A_2,FALSE,FALSE,FALSE,"terrestrial biome",borehole,null,57.4344,16.66,8,13.9
+DCO_PED,KA3385A_2,FALSE,FALSE,TRUE,"terrestrial biome",aquifer,null,57.4344,16.66,7.4,13
+DCO_PED,KA3510A_Prov_1,FALSE,FALSE,TRUE,"terrestrial biome",aquifer,null,57.4344,16.66,7.6,null
+DCO_PED,KF0069A01_2,FALSE,FALSE,TRUE,"terrestrial biome",aquifer,null,57.4344,16.66,0,16
+DCO_PED,KJ0052F01_100L,FALSE,FALSE,TRUE,"terrestrial biome",aquifer,water,57.4344,16.66,7.7,16
+DCO_PED,ONK_KR15,FALSE,FALSE,FALSE,"terrestrial biome","geological fracture",null,61.2369,21.4408,7.5,13
+DCO_PED,ONK_KR15_2,FALSE,FALSE,TRUE,"terrestrial biome",aquifer,null,61.2369,21.4408,7.6,13
+DCO_PED,ONK_PVA06_2,FALSE,FALSE,FALSE,"terrestrial biome","geological fracture",null,61.2369,21.4408,7.8,11
+DCO_PED,ONK_PVA1,FALSE,FALSE,FALSE,"terrestrial biome",borehole,null,61.2369,21.4408,7.9,8
+DCO_PED,ONK_PVA10,FALSE,FALSE,TRUE,"terrestrial biome",aquifer,null,61.2369,21.4408,8.3,11
+DCO_PED,ONK_PVA3,FALSE,FALSE,FALSE,"terrestrial biome",borehole,null,61.2369,21.4408,7.9,9
+DCO_PED,ONK_PVA5,FALSE,FALSE,TRUE,"terrestrial biome",aquifer,null,61.2369,21.4408,8.1,10
+DCO_PED,ONK_PVA6,FALSE,FALSE,FALSE,"terrestrial biome","geological fracture",null,61.2369,21.4408,7.8,11
+DCO_PED,SURE2_C1_3_1_cell2,FALSE,FALSE,TRUE,"terrestrial biome",aquifer,null,61.2369,21.4408,7.5,16
+DCO_PED,SURE2_P7_S1,FALSE,FALSE,TRUE,"terrestrial biome",aquifer,null,61.2369,21.4408,7.4,16
+DCO_PED,SURE2_P7_S2,FALSE,FALSE,TRUE,"terrestrial biome",aquifer,null,61.2369,21.4408,7.3,16
+DCO_PED,SURE2_P7_S3,FALSE,FALSE,TRUE,"terrestrial biome",aquifer,null,61.2369,21.4408,7.5,16
+DCO_PIN,A1_,TRUE,FALSE,FALSE,"terrestrial biome",borehole,rock,17.12,73.87,6.8,null
+DCO_PIN,A2_,TRUE,FALSE,FALSE,"terrestrial biome",borehole,rock,17.12,73.87,6.8,null
+DCO_PIN,A3_,TRUE,FALSE,FALSE,"terrestrial biome",borehole,rock,17.12,73.87,7.2,null
+DCO_PIN,A4_,TRUE,FALSE,FALSE,"terrestrial biome",borehole,rock,17.12,73.87,7.9,null
+DCO_PIN,A5_,TRUE,FALSE,FALSE,"terrestrial biome",borehole,rock,17.12,73.87,8,null
+DCO_PIN,B1_,TRUE,FALSE,FALSE,"terrestrial biome",borehole,rock,17.12,73.87,6.7,null
+DCO_PIN,B2_,TRUE,FALSE,FALSE,"terrestrial biome",borehole,rock,17.12,73.87,6.8,null
+DCO_PIN,B3_,TRUE,FALSE,FALSE,"terrestrial biome",borehole,rock,17.12,73.87,7,null
+DCO_PIN,B4_,TRUE,FALSE,FALSE,"terrestrial biome",borehole,rock,17.12,73.87,7.3,null
+DCO_PIN,B5_,TRUE,FALSE,FALSE,"terrestrial biome",borehole,rock,17.12,73.87,7.9,null
+DCO_PIN,B6_,TRUE,FALSE,FALSE,"terrestrial biome",borehole,rock,17.12,73.87,8,null
+DCO_PIN,BL_Control,FALSE,TRUE,FALSE,null,null,null,null,null,null,null
+DCO_PIN,U7,null,null,null,null,null,rock,null,null,7.5,null
+DCO_PPA,1301A_1a,FALSE,FALSE,TRUE,"marine biome",borehole,rock,47.7535,-127.7639,7.5,64
+DCO_PPA,1301A_1b,FALSE,FALSE,TRUE,"marine biome",borehole,rock,47.7536,-127.764,7.5,64
+DCO_PPA,1301A_1c,FALSE,FALSE,TRUE,"marine biome",borehole,rock,47.7537,-127.7641,7.5,64
+DCO_PPA,1301A_1d,FALSE,FALSE,TRUE,"marine biome",borehole,rock,47.7538,-127.7642,7.5,64
+DCO_PPA,1301A_3a,FALSE,FALSE,TRUE,"marine biome",borehole,rock,47.7539,-127.7643,7.5,64
+DCO_PPA,1301A_3b,FALSE,FALSE,TRUE,"marine biome",borehole,rock,47.754,-127.7644,7.5,64
+DCO_PPA,1301A_3c,FALSE,FALSE,TRUE,"marine biome",borehole,rock,47.7541,-127.7645,7.5,64
+DCO_PPA,1301A_3d,FALSE,FALSE,TRUE,"marine biome",borehole,rock,47.7542,-127.7646,7.5,64
+DCO_PUR,OTA_3_DNA_A,TRUE,FALSE,FALSE,"terrestrial biome",borehole,null,60.1882826,24.8286161,0,58
+DCO_PUR,OTA_4_DNA_A,TRUE,FALSE,FALSE,"terrestrial biome",borehole,null,60.1882826,24.8286161,0,76
+DCO_PUR,OTA_5_DNA_A,TRUE,FALSE,FALSE,"terrestrial biome",borehole,null,60.1882826,24.8286161,0,74
+DCO_PUR,OTA_DNA_extrctrl_1,null,TRUE,null,"terrestrial biome",borehole,null,60.1882826,24.8286161,0,-0
+DCO_QUE,69_FE_1_ATM10,FALSE,FALSE,TRUE,"marine biome","hydrothermal vent",rock,30.119789,-42.143555,null,null
+DCO_QUE,70B_P_F1_1,FALSE,FALSE,TRUE,"marine biome","hydrothermal vent",rock,30.119789,-42.143555,null,null
+DCO_QUE,70B_P_F1_2,FALSE,FALSE,TRUE,"marine biome","hydrothermal vent",rock,30.119789,-42.143555,null,null
+DCO_QUE,70B_P_FE_1,FALSE,FALSE,TRUE,"marine biome","hydrothermal vent",rock,30.119789,-42.143555,null,null
+DCO_QUE,70B_P_MET2_1,FALSE,FALSE,TRUE,"marine biome","hydrothermal vent",rock,30.119789,-42.143555,null,null
+DCO_QUE,70B_P_MET2_2,FALSE,FALSE,TRUE,"marine biome","hydrothermal vent",rock,30.119789,-42.143555,null,null
+DCO_QUE,70O_F1_ATM10,FALSE,FALSE,TRUE,"marine biome","hydrothermal vent",rock,30.119789,-42.143555,null,null
+DCO_QUE,70O_FE_2_ATM10,FALSE,FALSE,TRUE,"marine biome","hydrothermal vent",rock,30.119789,-42.143555,null,null
+DCO_QUE,70O_P_F1_1,FALSE,FALSE,TRUE,"marine biome","hydrothermal vent",rock,30.119789,-42.143555,null,null
+DCO_QUE,70O_P_F1_2,FALSE,FALSE,TRUE,"marine biome","hydrothermal vent",rock,30.119789,-42.143555,null,null
+DCO_QUE,70O_P_FE_1,FALSE,FALSE,TRUE,"marine biome","hydrothermal vent",rock,30.119789,-42.143555,null,null
+DCO_QUE,70O_P_MET2_1,FALSE,FALSE,TRUE,"marine biome","hydrothermal vent",rock,30.119789,-42.143555,null,null
+DCO_QUE,70O_P_MET2_2,FALSE,FALSE,TRUE,"marine biome","hydrothermal vent",rock,30.119789,-42.143555,null,null
+DCO_QUE,72_F1_2_ATM10,FALSE,FALSE,TRUE,"marine biome","hydrothermal vent",rock,30.119789,-42.143555,null,null
+DCO_RUF1,AT_4862_8,TRUE,FALSE,FALSE,"marine biome",seep,sediment,27.0,-111.419167,null,null
+DCO_RUF1,GB_Enr_10,FALSE,FALSE,TRUE,"marine biome",seep,sediment,27.0,-111.419167,null,null
+DCO_RUF1,GB_Enr_11,FALSE,FALSE,TRUE,"marine biome",seep,sediment,27.0,-111.419167,null,null
+DCO_RUF1,GB_Enr_13,FALSE,FALSE,TRUE,"marine biome",seep,sediment,27.0,-111.419167,null,null
+DCO_RUF1,GB_Enr_15,FALSE,FALSE,TRUE,"marine biome",seep,sediment,27.0,-111.419167,null,null
+DCO_RUF1,GB_Enr_17,FALSE,FALSE,TRUE,"marine biome",seep,sediment,27.0,-111.419167,null,null
+DCO_RUF1,GB_Enr_2,FALSE,FALSE,TRUE,"marine biome",seep,sediment,27.0,-111.419167,null,null
+DCO_RUF1,GB_Enr_24,FALSE,FALSE,TRUE,"marine biome",seep,sediment,27.0,-111.419167,null,null
+DCO_RUF1,GB_Enr_25,FALSE,FALSE,TRUE,"marine biome",seep,sediment,27.0,-111.419167,null,null
+DCO_RUF1,GB_Enr_28,FALSE,FALSE,TRUE,"marine biome",seep,sediment,27.0,-111.419167,null,null
+DCO_RUF1,GB_Enr_30,TRUE,FALSE,FALSE,"marine biome",seep,sediment,27.0,-111.419167,null,null
+DCO_RUF1,GB_Enr_54,FALSE,FALSE,TRUE,"marine biome",seep,sediment,27.0,-111.419167,null,null
+DCO_RUF1,GB_Enr_8,FALSE,FALSE,TRUE,"marine biome",seep,sediment,27.0,-111.419167,null,null
+DCO_RUF2,RR1_M,TRUE,FALSE,FALSE,"terrestrial biome",aquifer,soil,51.85113843,-112.7620601,8.5,null
+DCO_RUF2,RR1_S,TRUE,FALSE,FALSE,"terrestrial biome",aquifer,soil,51.85113843,-112.7620601,8.4,null
+DCO_RUF2,RR2_D,TRUE,FALSE,FALSE,"terrestrial biome",aquifer,soil,51.85185256,-112.7610295,8.5,null
+DCO_RUF2,RR_Ref_1,TRUE,FALSE,FALSE,"terrestrial biome",aquifer,soil,51.8511485,-112.7621084,null,null
+DCO_RUF2,TOR1_D,TRUE,FALSE,FALSE,"terrestrial biome",aquifer,soil,51.79217091,-113.3855371,8.3,null
+DCO_RUF2,TOR1_S,TRUE,FALSE,FALSE,"terrestrial biome",aquifer,soil,51.79217091,-113.3855371,8.4,null
+DCO_RUF2,TOR_Ref_1,TRUE,FALSE,FALSE,"terrestrial biome",aquifer,soil,51.7920058,-113.3856967,null,null
+DCO_RUS,4_D,TRUE,FALSE,FALSE,"marine biome",null,sediment,37.646,10.273,null,null
+DCO_RUS,6_D,TRUE,FALSE,FALSE,"marine biome",null,sediment,37.646,10.273,null,null
+DCO_RUS,6_H,TRUE,FALSE,FALSE,"marine biome",null,sediment,37.646,10.273,null,null
+DCO_RUS,8_D,TRUE,FALSE,FALSE,"marine biome",null,sediment,37.646,10.273,null,null
+DCO_RUS,Blank_1,FALSE,TRUE,FALSE,"marine biome",null,null,null,null,null,null
+DCO_RUS,Blank_2,FALSE,TRUE,FALSE,null,null,null,null,null,null,null
+DCO_RUS,O_12,TRUE,FALSE,FALSE,"marine biome",null,sediment,38.7,-75.16,null,null
+DCO_RUS,O_3,TRUE,FALSE,FALSE,"marine biome",null,sediment,38.7,-75.16,null,null
+DCO_SAR,A1_,TRUE,FALSE,FALSE,"terrestrial biome",borehole,rock,17.12,73.87,6.8,null
+DCO_SAR,A2_,TRUE,FALSE,FALSE,"terrestrial biome",borehole,rock,17.12,73.87,6.8,null
+DCO_SAR,A3_,TRUE,FALSE,FALSE,"terrestrial biome",borehole,rock,17.12,73.87,7.2,null
+DCO_SAR,A4_,TRUE,FALSE,FALSE,"terrestrial biome",borehole,rock,17.12,73.87,7.9,null
+DCO_SAR,A5_,TRUE,FALSE,FALSE,"terrestrial biome",borehole,rock,17.12,73.87,8,null
+DCO_SAR,B1_,TRUE,FALSE,FALSE,"terrestrial biome",borehole,rock,17.12,73.87,6.7,null
+DCO_SAR,B2_,TRUE,FALSE,FALSE,"terrestrial biome",borehole,rock,17.12,73.87,6.8,null
+DCO_SAR,B3_,TRUE,FALSE,FALSE,"terrestrial biome",borehole,rock,17.12,73.87,7,null
+DCO_SAR,B4_,TRUE,FALSE,FALSE,"terrestrial biome",borehole,rock,17.12,73.87,7.3,null
+DCO_SAR,B5_,TRUE,FALSE,FALSE,"terrestrial biome",borehole,rock,17.12,73.87,7.9,null
+DCO_SAR,B6_,TRUE,FALSE,FALSE,"terrestrial biome",borehole,rock,17.12,73.87,8,null
+DCO_SAR,BL_Control,FALSE,TRUE,FALSE,null,null,null,null,null,null,null
+DCO_SAR2,C1_AA_Bac,null,null,null,null,null,null,null,null,null,null
+DCO_SAR2,C1_AM_Bac,null,null,null,null,null,null,null,null,null,null
+DCO_SAR2,C1_IR_Bac,null,null,null,null,null,null,null,null,null,null
+DCO_SAR2,C1_NR_Bac,null,null,null,null,null,null,null,null,null,null
+DCO_SAR2,C1_SR_Bac,null,null,null,null,null,null,null,null,null,null
+DCO_SAR2,C2_AA_Bac,null,null,null,null,null,null,null,null,null,null
+DCO_SAR2,C2_AM_Bac,null,null,null,null,null,null,null,null,null,null
+DCO_SAR2,C2_IR_Bac,null,null,null,null,null,null,null,null,null,null
+DCO_SAR2,C2_NR_Bac,null,null,null,null,null,null,null,null,null,null
+DCO_SAR2,C2_SR_Bac,null,null,null,null,null,null,null,null,null,null
+DCO_SAR2,RC_Bac,null,null,null,null,null,null,null,null,null,null
+DCO_SHER,Kidd_Creek_SW_2015,FALSE,FALSE,TRUE,"terrestrial biome",mine,water,48.46,-81.27,7.02,23.7
+DCO_SWIR,RS_644_12A1,TRUE,FALSE,FALSE,"marine biome","hydrothermal vent",null,-27.8428,64.5893,null,null
+DCO_SWIR,RS_644_12A2,TRUE,FALSE,FALSE,"marine biome","hydrothermal vent",null,-27.8428,64.5893,null,null
+DCO_SWIR,RS_644_12B1,TRUE,FALSE,FALSE,"marine biome","hydrothermal vent",null,-27.8428,64.5893,null,null
+DCO_SWIR,RS_644_12B2,TRUE,FALSE,FALSE,"marine biome","hydrothermal vent",null,-27.8428,64.5893,null,null
+DCO_SWIR,RS_644_24B1,TRUE,FALSE,FALSE,"marine biome","hydrothermal vent",null,-27.843,64.5941,8.01,null
+DCO_SWIR,RS_644_24B2,TRUE,FALSE,FALSE,"marine biome","hydrothermal vent",null,-27.843,64.5941,8.01,null
+DCO_SWIR,RS_644_25A1,TRUE,FALSE,FALSE,"marine biome","hydrothermal vent",null,-27.8436,64.5938,7.88,null
+DCO_SWIR,RS_644_25A2,TRUE,FALSE,FALSE,"marine biome","hydrothermal vent",null,-27.8436,64.5938,7.88,null
+DCO_SWIR,RS_644_25B1,TRUE,FALSE,FALSE,"marine biome","hydrothermal vent",null,-27.8436,64.5938,7.88,null
+DCO_SWIR,RS_644_25B2,TRUE,FALSE,FALSE,"marine biome","hydrothermal vent",null,-27.8436,64.5938,7.88,null
+DCO_SWIR,RS_644_28A1,TRUE,FALSE,FALSE,"marine biome","hydrothermal vent",null,-27.843,64.5882,8.18,null
+DCO_SWIR,RS_644_28A2,TRUE,FALSE,FALSE,"marine biome","hydrothermal vent",null,-27.843,64.5882,8.18,null
+DCO_SWIR,RS_644_28B1,TRUE,FALSE,FALSE,"marine biome","hydrothermal vent",null,-27.843,64.5882,8.18,null
+DCO_SWIR,RS_644_28B2,TRUE,FALSE,FALSE,"marine biome","hydrothermal vent",null,-27.843,64.5882,8.18,null
+DCO_SWIR,RS_649_20B1,TRUE,FALSE,FALSE,"marine biome","hydrothermal vent",null,-27.8406,64.5911,7.94,null
+DCO_SWIR,RS_649_20B2,TRUE,FALSE,FALSE,"marine biome","hydrothermal vent",null,-27.8406,64.5911,7.94,null
+DCO_SWIR,RS_649_24A1,TRUE,FALSE,FALSE,"marine biome","hydrothermal vent",null,-27.8414,64.5882,null,null
+DCO_SWIR,RS_649_24A2,TRUE,FALSE,FALSE,"marine biome","hydrothermal vent",null,-27.8414,64.5882,null,null
+DCO_SWIR,RS_649_24B1,TRUE,FALSE,FALSE,"marine biome","hydrothermal vent",null,-27.8414,64.5882,null,null
+DCO_SWIR,RS_649_24B2,TRUE,FALSE,FALSE,"marine biome","hydrothermal vent",null,-27.8414,64.5882,null,null
+DCO_SYL,1374_20R_Bac,TRUE,FALSE,FALSE,"marine biome",borehole,rock,-28.596,-173.381,null,null
+DCO_SYL,1374_27R_Bac,TRUE,FALSE,FALSE,"marine biome",borehole,rock,-28.596,-173.381,null,null
+DCO_SYL,1374_31R_Bac,TRUE,FALSE,FALSE,"marine biome",borehole,rock,-28.596,-173.381,null,null
+DCO_SYL,1374_38R_Bac,TRUE,FALSE,FALSE,"marine biome",borehole,rock,-28.596,-173.381,null,null
+DCO_SYL,1374_68R_Bac,TRUE,FALSE,FALSE,"marine biome",borehole,rock,-28.596,-173.381,null,null
+DCO_SYL,1374_8R_Bac,TRUE,FALSE,FALSE,"marine biome",borehole,rock,-28.596,-173.381,null,null
+DCO_SYL,1376_04R_Bac,TRUE,FALSE,FALSE,"marine biome",borehole,rock,-32.217,-171.881,null,null
+DCO_TAS,S1_10,TRUE,FALSE,FALSE,"terrestrial biome",volcano,sediment,40.827049,14.141238,1.3,37.2
+DCO_TAS,S1_30,TRUE,FALSE,FALSE,"terrestrial biome",volcano,sediment,40.827049,14.141238,1.4,57.6
+DCO_TAS,S2_10,TRUE,FALSE,FALSE,"terrestrial biome",volcano,sediment,40.827049,14.141238,1.5,42.9
+DCO_TAS,S2_30,TRUE,FALSE,FALSE,"terrestrial biome",volcano,sediment,40.827049,14.141238,1.7,60.1
+DCO_TAS,S3_10,TRUE,FALSE,FALSE,"terrestrial biome",volcano,sediment,40.827049,14.141238,2.2,26.3
+DCO_TAS,S3_30,TRUE,FALSE,FALSE,"terrestrial biome",volcano,sediment,40.827049,14.141238,2,50.6
+DCO_TAS,S4_10,TRUE,FALSE,FALSE,"terrestrial biome",volcano,sediment,40.827049,14.141238,2.8,10.5
+DCO_TAS,S4_30,TRUE,FALSE,FALSE,"terrestrial biome",volcano,sediment,40.827049,14.141238,3.4,12.4
+DCO_TAS,S5_10,TRUE,FALSE,FALSE,"terrestrial biome",volcano,sediment,40.827049,14.141238,3.4,14.4
+DCO_TAS,S5_30,TRUE,FALSE,FALSE,"terrestrial biome",volcano,sediment,40.827049,14.141238,3.6,17.4
+DCO_TAS,S6_,TRUE,FALSE,FALSE,"terrestrial biome",volcano,sediment,40.827049,14.141238,2.1,70
+DCO_TAS,S7_,TRUE,FALSE,FALSE,"terrestrial biome",volcano,sediment,40.827049,14.141238,1.9,40
+DCO_TASP,P02,TRUE,FALSE,FALSE,"terrestrial biome","hydrothermal vent",null,40.83,14.15,6.28,90
+DCO_TASP,P03,TRUE,FALSE,FALSE,"terrestrial biome","hydrothermal vent",null,40.83,14.15,2.29,90
+DCO_TASP,P04,TRUE,FALSE,FALSE,"terrestrial biome","hydrothermal vent",null,40.83,14.15,2.24,70
+DCO_TASP,P05,TRUE,FALSE,FALSE,"terrestrial biome","hydrothermal vent",null,40.83,14.15,2.25,85
+DCO_TASP,P10,TRUE,FALSE,FALSE,"terrestrial biome","hydrothermal vent",null,40.83,14.15,2.27,65
+DCO_TASP,P11,TRUE,FALSE,FALSE,"terrestrial biome","hydrothermal vent",null,40.83,14.15,2.08,50
+DCO_TASP,P11W,TRUE,FALSE,FALSE,"terrestrial biome","hydrothermal vent",null,40.83,14.15,2.08,45
+DCO_TASP,P36,TRUE,FALSE,FALSE,"terrestrial biome","hydrothermal vent",null,40.83,14.15,2.25,85
+DCO_TASP,P46,TRUE,FALSE,FALSE,"terrestrial biome","hydrothermal vent",null,40.83,14.15,2.27,65
+DCO_TASP,P56,TRUE,FALSE,FALSE,"terrestrial biome","hydrothermal vent",null,40.83,14.15,2.08,50
+DCO_TASP,P_3,TRUE,FALSE,FALSE,"terrestrial biome","hydrothermal vent",null,40.83,14.15,2.08,45
+DCO_TASP,P_6,TRUE,FALSE,FALSE,"terrestrial biome","hydrothermal vent",null,40.83,14.15,2.07,40
+DCO_TASP,P_7,TRUE,FALSE,FALSE,"terrestrial biome","hydrothermal vent",null,40.83,14.15,2.08,35
+DCO_TASP,P_8,TRUE,FALSE,FALSE,"terrestrial biome","hydrothermal vent",null,40.83,14.15,2.08,30
+DCO_TASP,P_9,TRUE,FALSE,FALSE,"terrestrial biome","hydrothermal vent",null,40.83,14.15,1.99,15
+DCO_TCO,BE326FW250111BH2,TRUE,FALSE,FALSE,"terrestrial biome","geological fracture",water,-28.24,26.8,8.8,36.9
+DCO_TCO,BE326FW270712BH2,TRUE,FALSE,FALSE,"terrestrial biome","geological fracture",water,-28.24,26.8,8.6,38.1
+DCO_TCO,DR5IPCFW280711,TRUE,FALSE,FALSE,"terrestrial biome","geological fracture",water,-26.42,27.5,7.4,26.8
+DCO_TCO,FI88FW031012,TRUE,FALSE,FALSE,"terrestrial biome","geological fracture",water,-28.38,23.45,6.8,28.9
+DCO_TCO,MM51940FW200712,TRUE,FALSE,FALSE,"terrestrial biome","geological fracture",water,-27.98,26.88,7.7,40.7
+DCO_TCO,NO14FW130912,TRUE,FALSE,FALSE,"terrestrial biome","geological fracture",water,-24.83,27.34,8.5,65
+DCO_TCO,TT109FW060312BH2,TRUE,FALSE,FALSE,"terrestrial biome",borehole,rock,-26.42,27.43,8.19,48.7
+DCO_TIA2,A301GC,TRUE,FALSE,FALSE,"terrestrial biome",aquifer,water,null,null,11.4,null
+DCO_TIA2,A301MO,TRUE,FALSE,FALSE,"terrestrial biome",aquifer,water,null,null,11.4,null
+DCO_TIA2,A302MO,TRUE,FALSE,FALSE,"terrestrial biome",aquifer,water,null,null,11.4,null
+DCO_TIA2,A303GC,TRUE,FALSE,FALSE,"terrestrial biome",aquifer,water,null,null,11.4,null
+DCO_TIA2,A501GC,TRUE,FALSE,FALSE,"terrestrial biome",aquifer,water,null,null,11.4,null
+DCO_TIA2,A501MO,TRUE,FALSE,FALSE,"terrestrial biome",aquifer,water,null,null,11.4,null
+DCO_TIA2,A502GCA,TRUE,FALSE,FALSE,"terrestrial biome",aquifer,water,null,null,11.4,null
+DCO_TIA2,A502GCB,TRUE,FALSE,FALSE,"terrestrial biome",aquifer,water,null,null,11.4,null
+DCO_TIA2,A502MO,TRUE,FALSE,FALSE,"terrestrial biome",aquifer,water,null,null,11.4,null
+DCO_TIA2,A502MOB,TRUE,FALSE,FALSE,"terrestrial biome",aquifer,water,null,null,11.4,null
+DCO_WOY,170123GSB2,null,null,null,null,null,null,null,null,null,null
+DCO_WOY,170123GSC1FL,null,null,null,null,null,null,null,null,null,null
+DCO_WOY,170124PF1,null,null,null,null,null,null,null,null,null,null
+DCO_WOY,170124PF1FL,null,null,null,null,null,null,null,null,null,null
+DCO_WOY,170126ML1,null,null,null,null,null,null,null,null,null,null
+DCO_WOY,170126ML1FL,null,null,null,null,null,null,null,null,null,null
+DCO_WOY,170127CC1,null,null,null,null,null,null,null,null,null,null
+DCO_WOY,170127ML2L,null,null,null,null,null,null,null,null,null,null
+DCO_WOY,170127ML2U,null,null,null,null,null,null,null,null,null,null
+DCO_WOY,170127ML2UFL,null,null,null,null,null,null,null,null,null,null

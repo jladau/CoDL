@@ -1,0 +1,72 @@
+FEATURE,VALUE_CODL_VAMPS,VALUE_CORRECT
+env_material,"laminated interval composed of clay mixed with diatoms; silt-sized carbonates; siliciclastic material; volcanic ash and coccolit",sediment
+env_material,"laminated interval composed of brown organic-rich clay mixed with diatoms",sediment
+env_material,"mix between hydrothermal clay and pumiceous grit",sediment
+env_feature,"marine hydrothermal vent chimney","hydrothermal vent"
+env_biome,"terrestrial freshwater aquatic","terrestrial biome"
+env_biome,"marine hydrothermal vent","marine biome"
+env_feature,"marine hydrothermal vent","hydrothermal vent"
+env_material,"potential sapropel layer",null
+env_feature,"sub-continental aquifer",aquifer
+env_material,"microbial mat/biofilm","microbial mat material"
+env_feature,"alkaline hot spring",spring
+env_feature,"geological fracture","geological fracture"
+env_feature,"continental margin",null
+env_biome,"terrestrial biome","terrestrial biome"
+env_feature,"hydrothermal seep",seep
+env_feature,"hydrothermal vent","hydrothermal vent"
+env_feature,"research borehole",borehole
+env_material,"pumiceous gravel",sediment
+env_biome,"marine sediment","marine biome"
+env_feature,"acid hot spring",spring
+env_feature,"volcanic crater",volcano
+env_material,"extreme habitat",null
+env_material,"coccolith ooze",sediment
+env_material,"pumiceous grit",sediment
+env_material,"siliceous ooze",sediment
+env_feature,"oceanic crust","ocean trench"
+env_feature,"volcanic seep",volcano
+env_biome,"marine biome","marine biome"
+env_feature,"mud volcano",volcano
+env_feature,"Seep fluids",seep
+env_material,groundwater,water
+env_material,"Sapropel S1",null
+env_material,"Sapropel S5",null
+env_material,sedimentary,sediment
+env_material,Sedimentary,sediment
+env_feature,enrichment,enrichment
+env_feature,"hot spring","hot spring"
+env_feature,microcosm,null
+env_material,quartzite,rock
+env_feature,borehole,borehole
+env_material,dolomite,rock
+env_material,sediment,sediment
+env_feature,aquifer,aquifer
+env_feature,estuary,null
+env_feature,volcano,volcano
+env_material,Granite,rock
+env_material,granite,rock
+env_material,Igenous,rock
+env_material,igneous,rock
+env_biome,basalt,null
+env_feature,spring,spring
+blank_or_control,FALSE,FALSE
+enrichment,FALSE,FALSE
+env_material,water,water
+blank_or_control,null,null
+blank_or_control,TRUE,TRUE
+enrichment,null,null
+enrichment,TRUE,TRUE
+env_biome,null,null
+env_feature,core,null
+env_feature,lake,lake
+env_feature,mine,mine
+env_feature,null,null
+env_feature,seep,seep
+env_feature,well,well
+env_material,clay,mud
+env_material,null,null
+env_material,rock,rock
+env_material,soil,soil
+env_material,tuff,rock
+env_material,air,null
